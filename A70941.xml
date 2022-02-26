@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dutiful advice of a loving sonne, to his aged father</title>
+            <author>Southwell, Robert, Saint, 1561?-1595.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70941</idno>
+            <idno type="STC">Wing R160</idno>
+            <idno type="STC">ESTC R9131</idno>
+            <idno type="EEBO-CITATION">20553647</idno>
+            <idno type="OCLC">ocm 20553647</idno>
+            <idno type="VID">64869</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70941)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64869)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 224:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dutiful advice of a loving sonne, to his aged father</title>
+                  <author>Southwell, Robert, Saint, 1561?-1595.</author>
+               </titleStmt>
+               <extent>[2], 15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W.B. and are to sold by W. Sheares ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wrongly attributed to Sir Walter Raleigh, this item is an excerpt from Robert Southwell's "An epistle of a religious priest unto his father," first published in "A short rule of a good life."</note>
+                  <note>Also found following Maxims of state at reel 773:37.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+                  <note>Entry for R160 cancelled in Wing (2nd ed.) No separate number assigned.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fathers --  Religious life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64869:1" rendition="simple:additions"/>
+            <pb facs="tcp:64869:1" rendition="simple:additions"/>
+            <p>The dutiful ADVICE of a loving SONNE, <hi>to his aged</hi> FATHER.</p>
+            <figure>
+               <figDesc>flower</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. B.</hi> and are to be ſold by <hi>W. Sheares</hi> at the ſign of the <hi>Bible</hi> over againſt the North-door of <hi>Pauls</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:64869:2"/>
+            <pb n="1" facs="tcp:64869:2"/>
+            <head>The dutifull ADVICE OF A LOVING SON To his <hi>AGED FATHER.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Humbly beſeech you, both in reſpect of the honour of God, your duty to his Church, and the comfort of your own ſoul, that you ſe<g ref="char:EOLhyphen"/>riouſly conſider in what tearms you ſtand; and weigh your ſelf in a Chri<g ref="char:EOLhyphen"/>ſtian ballance, taking for your coun<g ref="char:EOLhyphen"/>terpoiſe the judgements of God: Take heed in time that the word <hi>TEKEL,</hi>
+               <pb n="2" facs="tcp:64869:3"/>written of old againſt <hi>Balthazar,</hi> and interpreted by <hi>Daniel,</hi> be not verified in you, whoſe expoſition was, <hi>You have been poized in the ſcale, and found of too light weight.</hi>
+            </p>
+            <p>Remember that you are now in the weining, and the date of your pil<g ref="char:EOLhyphen"/>grimage well nigh expired, and now that it behoveth you to look towards your Countrey, your forces languiſh<g ref="char:EOLhyphen"/>eth, your ſenſes impair, your bodie droops, and on every ſide the ruinous Cottage of your faint and feeble fleſh, threateneth the fall. And having ſo many harbingers of death to premo<g ref="char:EOLhyphen"/>niſh you of your end, how can you but prepare for ſo dreadfull a ſtranger. The young man may die quickly, but the old man cannot live long: the young mans life by caſualty may be a<g ref="char:EOLhyphen"/>bridged, but the old mans by no phy<g ref="char:EOLhyphen"/>ſick can be long adjourned, and there<g ref="char:EOLhyphen"/>fore if green years ſhould ſometimes think of the grave, the thoughts of old age ſhould continually dwell in the ſame.</p>
+            <p>The prerogative of Infancy is in<g ref="char:EOLhyphen"/>nocency; of Child-hood, reverence; of Man-hood, maturity; and of old age, wiſdom.</p>
+            <p>
+               <pb n="3" facs="tcp:64869:3"/>
+And ſeeing then that the chiefeſt properties of wiſdom, are to be mind<g ref="char:EOLhyphen"/>full of things paſt, carefull for things preſent, and provident for things to come: Uſe now the priviledge of na<g ref="char:EOLhyphen"/>tures tallent, to the benefit of your own ſoul, and procure hereafter to be wiſe in well doing, and watchfull in the fore-ſight of future harms. To ſerve the world you are now unable, and though you were able, yet you have little cauſe to be willing, ſeeing that it never gave you but an unhappy welcome, a hurtfull entertainment, and now doth abandon you with an unfor<g ref="char:EOLhyphen"/>tunate fare-wel.</p>
+            <p>You have long ſowed in a field of flint, which could bring nothing forth but a crop of cares, and afflictions of ſpirit, rewarding your labours with re<g ref="char:EOLhyphen"/>morſe, and affording for your gain, eter<g ref="char:EOLhyphen"/>nal danger.</p>
+            <p>It is now more than a ſeaſonable time to alter the courſe of ſo unthri<g ref="char:EOLhyphen"/>ving a huſbandry, and to enter into the field of Gods Church, in which, ſowing the ſeed of repentant ſorrow, and watering them with the tears of humble contrition, you may hereafter reap a more beneficial harveſt, and ga<g ref="char:EOLhyphen"/>ther
+<pb n="4" facs="tcp:64869:4"/>the fruits of everlaſting com<g ref="char:EOLhyphen"/>fort.</p>
+            <p>Remember, I pray you, that your ſpring is ſpent, your ſummer over-paſt, you are now arrived at the fall of the leaf; yea, and winter colours have long ſince ſtained your hoary head.</p>
+            <p>
+               <hi>Be not careleſs</hi> (ſaith Saint <hi>Augu<g ref="char:EOLhyphen"/>ſtine</hi>) <hi>though our loving Lord bear long with offenders; for the longer he ſtayes, not finding amendment, the ſorer he will ſcourge when he comes to Judgement: And his patience in ſo long forbearing, is onely to lend us respite to repent, and not any wiſe to enlarge us leiſure to ſin.</hi>
+            </p>
+            <p>He that is toſſed with variety of ſtorms, and cannot come to his deſi<g ref="char:EOLhyphen"/>red Port, maketh not much way, but is much turmoyled; So, he that hath paſſed many years, and purchaſed little profit, hath a long being, but a ſhort life; For, life is more to be meaſured by well doing, than by number of years: Seeing that moſt men by many days do but procure many deaths, and others in ſhort ſpace attain to the life of infinite ages; what is the body without the ſoul, but a corrupt car<g ref="char:EOLhyphen"/>kaſs? And what is the ſoul without
+<pb n="5" facs="tcp:64869:4"/>God, but a ſepulchre of ſin?</p>
+            <p>If God be the Way, the Life, and the Truth, he that goeth without him, ſtrayeth; and he that liveth without him, dieth; and he that is not taught by him, erreth.</p>
+            <p>
+               <hi>Well</hi> (ſaith Saint <hi>Auguſtine</hi>) <hi>God is our true and chiefeſt Life, from whom to revolt, is to fall; to whom to return, is to riſe, and in whom to ſtay, is to ſtand ſure.</hi>
+            </p>
+            <p>God is he, from whom to depart, is to die; to whom to repair, is to revive; and in whom to dwell, is life for ever: Be not then of the number of thoſe that begin not to live, till they be ready to die: and then after a foes de<g ref="char:EOLhyphen"/>ſert, come to crave of God a friends entertainment.</p>
+            <p>Some there be that think to ſnatch Heaven in a moment, which the beſt can ſcarce attain unto in the maintain<g ref="char:EOLhyphen"/>ance of many years, and when they have glutted themſelves with worldly delights, would jump from <hi>Dives</hi> Diet, to <hi>Lazarus</hi> Crown, from the ſervice of Satan, to the ſolace of a Saint.</p>
+            <p>But be you well aſſured, that God is not ſo penurious of friends, as to hold himſelf and his Kingdom ſale<g ref="char:EOLhyphen"/>albe
+<pb n="6" facs="tcp:64869:5"/>for the refuſe and reverſions of their lives, who have ſacrificed the principal thereof to his enemies, and their own bruitiſh luſt; then onely ceaſing to offend, when the ability of offending is taken from them.</p>
+            <p>True it is, that a thief may be ſaved upon the croſs, and mercy ſound at the laſt gaſp: <hi>But well</hi> (ſaith S. <hi>Au<g ref="char:EOLhyphen"/>guſtine</hi>) <hi>though it be poſsible, yet it is ſcarce credible, that the d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath ſhould find favour, whoſe whole life deſerved death; and that the repentance ſhould be more excepted, that more for fear of hell, and love of himſelf, than for the love of God, and loathſomneſs of ſin cri<g ref="char:EOLhyphen"/>eth for mercy.</hi>
+            </p>
+            <p>Wherefore, good SIR, make no longer delays; but being ſo near the breaking up of your mortal houſe, take time before extremity, to pacifie Gods anger.</p>
+            <p>Though you ſuffer the bud to be blaſted, though you permitted the fruits to be periſhed, and the leaves to drie up; yea, though you let the boughs to wither, and the body of your tree to grow to decay, yet (alas) keep life in the root, for fear leſt the whole tree become fewel for hell fire;
+<pb n="7" facs="tcp:64869:5"/>For ſurely where the tree falleth, there it ſhall lie, whether towards the South, or to the North, to Heaven, or to hell; and ſuch ſap as it bringeth forth, ſuch fruit ſhall it ever bear.</p>
+            <p>Death hath already filed from you the better part of your natural forces, and left you now to the Lees, and re<g ref="char:EOLhyphen"/>miſſals of your wearyiſh and dying days.</p>
+            <p>The remainder whereof, as it can<g ref="char:EOLhyphen"/>not be long, ſo doth it warn you ſpee<g ref="char:EOLhyphen"/>dily to ranſom your former loſſes; for what is age, but the Calends of death, &amp; what importeth your preſent weak<g ref="char:EOLhyphen"/>neſs, but an earneſt of your approch<g ref="char:EOLhyphen"/>ing diſſolution, you are now imbark<g ref="char:EOLhyphen"/>ed in your final voyage, and not far from the ſtint and period of your courſe.</p>
+            <p>Be not therefore unprovided of ſuch appurtenances as are behovefull in ſo perplexed and perilous a Journey; death it ſelf is very fearfull, but much more terrible, in reſpect of the judge<g ref="char:EOLhyphen"/>ment it ſummoneth us unto.</p>
+            <p>If you were now laid upon your de<g ref="char:EOLhyphen"/>parting-bed, burthened with the hea<g ref="char:EOLhyphen"/>vie load of your former treſpaſſes, and gored with the ſting and prick of a fe<g ref="char:EOLhyphen"/>ſtered
+<pb n="8" facs="tcp:64869:6"/>Conſcience; if you felt the cramp of death wreſting your heart-ſtrings, and ready to make the ruefull divorce between body and ſoul: If you lay panting for breath, and ſwimming in a cold and pale ſweat, wearied with ſtrugling againſt your deadly pangs, O what would you give for an hours re<g ref="char:EOLhyphen"/>pentance; at what rate would you va<g ref="char:EOLhyphen"/>lue a days contrition? Then worlds would be worth leſs in reſpect of a little reſpite, a ſhort truce would ſeem more precious than the treaſures of an Empire, nothing would be ſo much eſteemed as a ſhort trice of time, which now by days, and moneths, and years, is moſt laviſhly misſpent.</p>
+            <p>Oh how deeply would it wound your woefull heart, when looking back into your former life, you conſidered many hainous and horrible offences committed, many pious works, and godly deeds omitted, and neither of both repented, your ſervice to God promiſed, and not performed.</p>
+            <p>Oh how unconſolably were your caſe, your friends being fled, your ſen<g ref="char:EOLhyphen"/>ſes affrighted, your thoughts amazed, your memory decayed, and your whole mind agaſt, and no part able to per<g ref="char:EOLhyphen"/>form
+<pb n="9" facs="tcp:64869:6"/>what it ſhould; but onely your guilty Conſcience peſtered with ſin, that would continually upbraid you with many bitter accuſations.</p>
+            <p>Oh what would you think then, be<g ref="char:EOLhyphen"/>ing ſtripped out of this mortal weed, and turned out both of ſervice and houſe-room of this wicked world, you are forced to enter into uncough and ſtrange paths, and with unknown and ugly company, to be convented be<g ref="char:EOLhyphen"/>fore a moſt ſevere Judge, carrying in your Conſcience your Inditement, written in a perfect Regiſter of all your miſdeeds, when you ſhall ſee him pre<g ref="char:EOLhyphen"/>pared to give ſentence upon you, a<g ref="char:EOLhyphen"/>gainſt whom you have ſo often tranſ<g ref="char:EOLhyphen"/>greſſed, and the ſame to be your Um<g ref="char:EOLhyphen"/>pire, whom by ſo many offences you have made your enemies, when not onely the Devil, but even the Angels would plead againſt you, and your own ſelf, in deſpight of your ſelf, be your own moſt ſharp appeacher.</p>
+            <p>Oh what would you do in theſe dreadfull exigents, when you ſaw the ghaſtly Dragon, and huge gulph of hell, breaking out with moſt fearfull flames, when you heard the weeping, wailing, and gnaſhing of teeth; the
+<pb n="10" facs="tcp:64869:7"/>rage of thoſe helliſh monſters, the horrour of the place, the terrour of the company, and the eternity of all thoſe torments.</p>
+            <p>Would you then think them wiſe that ſhould delay in ſo weighty mat<g ref="char:EOLhyphen"/>ters, and idlely play away the time al<g ref="char:EOLhyphen"/>lotted, to prevent theſe intolerable ca<g ref="char:EOLhyphen"/>lamities? Would you then count it ſecure, to nurſe in your own boſom ſo many Serpents as ſins? and to foſter in your ſouls ſo many malicious Accu<g ref="char:EOLhyphen"/>ſers, as mortal and horrible offences? Would you not think one life too lit<g ref="char:EOLhyphen"/>tle to repent in, for ſo many, and ſo great iniquities, every one whereof were enough to throw you into thoſe unſpeakable and intolerable torments.</p>
+            <p>And why then (alas) do you not at the leaſt devote that ſmall remnant, and ſurpluſage of theſe your latter days, procuring to make an atone<g ref="char:EOLhyphen"/>ment with God, and to free your Soul and Conſcience from that corru<g ref="char:EOLhyphen"/>ption, which by your fall hath crept into it.</p>
+            <p>Thoſe very eyes that behold, and read this Diſcourſe, thoſe very ears that are attentive to hear it, and that very underſtanding that conſidereth
+<pb n="11" facs="tcp:64869:7"/>and conceiveth it, ſhall be cited as certain witneſſes of theſe rehearſed things. In your own body ſhall you experience theſe deadly Agonies, and in your ſoul ſhall you feelingly find theſe terrible fears; yea, and your pre<g ref="char:EOLhyphen"/>ſent eſtate, is in danger of the deepeſt harms, if you do not the ſooner re<g ref="char:EOLhyphen"/>cover your ſelf into that fold and fami<g ref="char:EOLhyphen"/>ly of Gods faithfull ſervants.</p>
+            <p>What have you gotten by being ſo long a cuſtomer to the world, but falſe ware, ſuitable to the ſhop of ſuch a merchant, whoſe traffique is toyl, whoſe wealth is traſh, and whoſe gain is miſerie? What intereſt have you reaped, that might equal your detri<g ref="char:EOLhyphen"/>ment in grace and virtue? Or what could you find in the vale of tears, that was anſwerable to the favour of God, with loſs whereof, you were con<g ref="char:EOLhyphen"/>tented to buy it.</p>
+            <p>You cannot now be inveigled with the paſſions of youth, which making a partiality of things, ſets no diſtance between counterfeit and currant, for theſe are now worn out of force, by tract of time are fallen into reproof by trial of their folly.</p>
+            <p>Oh let not the crazie cowardneſs of
+<pb n="12" facs="tcp:64869:8"/>fleſh and bloud, daunt the proweſs of an intelligent perſon, who by his wiſ<g ref="char:EOLhyphen"/>dom cannot but diſcern how much more cauſe there is, and how much more needfull it is to ſerve God, than this wicked world.</p>
+            <p>But if it be the ungrounded pre<g ref="char:EOLhyphen"/>ſumption of the mercy of God, and the hope of his aſſiſtance at the laſt plunge (which indeed is the ordinary lure of the devil) to reclaim ſinners from the purſuit of Repentance. Alas, that is too palpable a colluſion to miſ<g ref="char:EOLhyphen"/>lead a ſound and ſerviceable man, how<g ref="char:EOLhyphen"/>ſoever it may prevail with ſick and ill-affected judgements: who would re<g ref="char:EOLhyphen"/>ly upon eternal affairs, upon the glid<g ref="char:EOLhyphen"/>ing ſlipperineſs, and running ſtreams of our uncertain life? who, but one of diſtempered wits, would offer fraud to the Diſcipherer of all thoughts; with whom diſſemble we may to our coſt, but to deceive him, is unpoſſible.</p>
+            <p>Shall we eſteem it cunning to rob the time from him, and beſtow it on his enemies, who keepeth tale of the leaſt minutes, and will examine in the end how every moment hath been im<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>loyed. It is a prepoſterous kind of <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>licie, in any wiſe conceit to fight
+<pb n="13" facs="tcp:64869:8"/>againſt God, till our weapons be blunt<g ref="char:EOLhyphen"/>ed, our forces conſumed, our limbs im<g ref="char:EOLhyphen"/>potent, and our beſt time ſpent; and then when we fall for faintneſs, and have fought our <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elves almoſt dead, to preſume on his mercy.</p>
+            <p>Oh! no, no, the wounds of his moſt ſacred body, ſo often rubbed, and re<g ref="char:EOLhyphen"/>newed by our ſins, and every part and parcel of our bodies ſo divers, and ſun<g ref="char:EOLhyphen"/>dry ways abuſed, will be then as ſo many whet-ſtones and incentives, to edge and exaſperate his moſt juſt re<g ref="char:EOLhyphen"/>venge againſt us.</p>
+            <p>It is a ſtrange piece of Art, and a ve<g ref="char:EOLhyphen"/>ry exorbitant courſe, when the Ship is ſound, the Pylot well, the Marriners ſtrong, the Gale favourable, and the Sea calm, to lie idly at the road, burn<g ref="char:EOLhyphen"/>ing ſo ſeaſonable weather: And when the Ship leaketh, the Pylot ſick, the Marriners faint, the Storms boyſter<g ref="char:EOLhyphen"/>ous, and the Seas a turmoyl of outra<g ref="char:EOLhyphen"/>gious Surges, then to launch forth, (hoiſe up ſail) and ſet out for a long voyage into a far Countrey.</p>
+            <p>Yet ſuch is the ſkill of theſe evening Repenters, who though in the ſound<g ref="char:EOLhyphen"/>neſs of their health, and perfect uſe of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir reaſon, they cannot reſolve to
+<pb n="14" facs="tcp:64869:9"/>cut the Cables, and weigh the Anchour that with-holds them from God.</p>
+            <p>Nevertheleſs, they feed themſelves with a ſtrong perſwaſion, that when they are aſtonied, their wits diſtracted, the underſtanding duſked, and the bo<g ref="char:EOLhyphen"/>dies and ſouls wracked, and torment<g ref="char:EOLhyphen"/>ed with the throbs and gripes of a mortal ſickneſs, then forſooth they will begin to think of their weightieſt matters, and become ſudden Saints, when they are ſcarce able to behave themſelves like reaſonable creatures.</p>
+            <p>No, no, if neither the Canon, Civil, nor the Common Law will allow that man (periſhed in judgement) ſhould make any Teſtament of his temporal ſubſtance; How can he that is anima<g ref="char:EOLhyphen"/>ted with inward garboyls of an unſet<g ref="char:EOLhyphen"/>led Conſcience, diſtrained with the ringing ſits of his dying fleſh, maimed in all his ability, and circled in on eve<g ref="char:EOLhyphen"/>ry ſide with many and ſtrange incum<g ref="char:EOLhyphen"/>berances, be thought of due diſcretion to diſpoſe of his chiefeſt Jewel, which is his Soul, and to diſpatch the whole mannage of all eternity, and of the treaſures of Heaven in ſo ſhort a ſpurt.</p>
+            <p>No, no, they that will loyter in ſeed<g ref="char:EOLhyphen"/>time, and begin to ſow when others
+<pb n="15" facs="tcp:64869:9"/>reap; they that will riot out their health, and begin to caſt their ac<g ref="char:EOLhyphen"/>counts when they are ſcarce able to ſpeak; th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y that will ſlumber out the day, and enter their journey when the light doth fail them, let them blame their own folly, if they die in debt, and be eternal beggers, and fall head-long into the lap of endleſs perdition.</p>
+            <p>Let ſuch liſten to S. <hi>Cyprians</hi> leſſon; <hi>Let,</hi> ſaith he, <hi>the gri<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vouſneſs of our ſore be the meaſure of our ſorrow; let a deep wound have a deep and diligent cure; Let no mans cont<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ition be l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs than his Crime.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <trailer type="illustration">
+               <figure/>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
